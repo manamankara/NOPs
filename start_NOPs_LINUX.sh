@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Only h21+ is supported.
-cd /opt/hfs21.0/
+# Only h22+ is supported.
+cd /opt/hfs22.0/
 source ./houdini_setup_bash
 cd -
 
