@@ -1,0 +1,21 @@
+{
+    "name": "Eyeburn",
+    "theme": {
+        "base": [
+            13.36,
+            76.21,
+            53.76
+        ],
+        "primary": [
+            350,
+            45.0,
+            55.0
+        ],
+        "highlight": [
+            18,
+            35,
+            80
+        ],
+        "category": "Custom"
+    }
+}
